@@ -1,0 +1,6 @@
+*target
+.DS_Store
+.idea
+.env
+Cargo.lock
+keys/rs512*
