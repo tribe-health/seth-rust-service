@@ -4,3 +4,4 @@
 .env
 Cargo.lock
 keys/rs512*
+.vscode
